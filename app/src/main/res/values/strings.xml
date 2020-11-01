@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Constraint Layout</string>
+    <string name="app_name">Meu Perfil</string>
+    <string name="app_button_name">About Me</string>
+    <string name="app_text_about">Olá, sou desenvolvedora Android Nativo. Trabalho com a linguagem Kotlin e estou a procura de uma oportunidade. </string>
 </resources>
